@@ -1,7 +1,7 @@
 # term-frequency
 Author-Kalyani Shahale
 
-The objectiv is to calculate the frequency at which each terms is used within indivisual resources as well as collectively.
+The objective is to calculate the frequency at which each terms is used within indivisual resources as well as collectively.
 
 #include<stdio.h>
 #include<string.h>
