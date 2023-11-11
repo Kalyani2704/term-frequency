@@ -2,7 +2,12 @@
 Author-Kalyani Shahale
 
 The objective is to calculate the frequency at which each terms is used within indivisual resources as well as collectively.
+![image](https://github.com/Kalyani2704/term-frequency/assets/82963338/ec304bab-48a0-4c77-9f94-2511aafc7507)
+![image](https://github.com/Kalyani2704/term-frequency/assets/82963338/977af0b4-e4fd-43ae-81e0-69f64527bc0f)
+![image](https://github.com/Kalyani2704/term-frequency/assets/82963338/db8169a6-d1cd-4303-a9e0-f7b0a016d5c2)
+![image](https://github.com/Kalyani2704/term-frequency/assets/82963338/4784d05b-0f7d-4748-87f2-0c7d45e57bbb)
 
+Source code:
 #include<stdio.h>
 #include<string.h>
 struct term{
