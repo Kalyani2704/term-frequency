@@ -8,6 +8,7 @@ The objective is to calculate the frequency at which each terms is used within i
 ![image](https://github.com/Kalyani2704/term-frequency/assets/82963338/4784d05b-0f7d-4748-87f2-0c7d45e57bbb)
 
 Source code:
+<br>
 #include<stdio.h>
 #include<string.h>
 struct term{
